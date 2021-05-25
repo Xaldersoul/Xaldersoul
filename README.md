@@ -33,8 +33,3 @@
 - 📫 How to reach me
 - email: **benjamin.g.guerra@hotmail.com**
 - Likedin: **https://www.linkedin.com/in/benjamin-guerra-dev/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/benjamin guerra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="benjamin guerra" height="30" width="40" /></a>
-</p>
