@@ -24,7 +24,15 @@
 
 <img height="250" width="400" src="./screens/dice3.png" /> <img height="250" width="400" src="./screens/dice4.png" />
 
-- 📫 How to reach me **benjamin.g.guerra@hotmail.com**
+• Videogame - [Nursing memories](https://eliosherb.itch.io/nursing-memories)
+
+<img height="250" width="400" src="./screens/game1.png" /> <img height="250" width="400" src="./screens/game2.png" />
+
+<img height="250" width="400" src="./screens/game3.png" /> <img height="250" width="400" src="./screens/game4.png" />
+
+- 📫 How to reach me
+- email: **benjamin.g.guerra@hotmail.com**
+- Likedin: **https://www.linkedin.com/in/benjamin-guerra-dev/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
